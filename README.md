@@ -9,7 +9,7 @@
   </p>
   <p>
     <a href="https://t.me/aiclubidchat"><img src="https://img.shields.io/badge/Telegram-Grup%20Diskusi-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Grup diskusi AICLUB"></a>
-    <a href="https://yans.ai.id/"><img src="https://img.shields.io/badge/Founder-Yans.AI.ID-111827?style=flat-square" alt="Profil founder"></a>
+    <a href="https://yans.ai.id/"><img src="https://img.shields.io/badge/Founder-Yanstd-111827?style=flat-square" alt="Profil founder"></a>
   </p>
 </div>
 
